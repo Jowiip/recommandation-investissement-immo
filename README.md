@@ -1,0 +1,1 @@
+Le notebook conclusion et recommandations vous permet grâce à des widgets intéractifs d'obtenir des graphiques ou des données précises sur le marché immobiliers ou d'autres données utiles à l'investissement immobilier. Les autres notebook peuvent vous être utiles pour ajouter des nouvelles valeurs foncières, les nettoyer et trié pour que les données soit derrière exploitable.
